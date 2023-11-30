@@ -5,6 +5,7 @@ type: docs
 
 # Acerbo datus maxime
 
+{{< columns >}}
 
 ## Astris ipse furtiva
 
@@ -20,7 +21,6 @@ Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
 miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
 nunc! Fragosis suae dextra geruntur functus vulgata.
 {{< /columns >}}
-
 
 ## Tempora nisi nunc
 
